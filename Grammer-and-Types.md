@@ -2,7 +2,6 @@
 
 ## Basics
 
----
 
 JavaScript는 Java, C, C++의 많은 문법을 가져왔지만 Awk, Perl, Python 과 같은 언어의 영향을 받기도 하였습니다.
 
@@ -23,7 +22,6 @@ Früh != früh;
 
 ## Comments 주석
 
----
 
 - 주석은 C++ 과 같습니다.
 ```javascript
@@ -37,7 +35,6 @@ Früh != früh;
 ```
 ## Declarations 변수 선언
 
----
 
 `var`
 
@@ -100,7 +97,6 @@ console.log(n * 32); // will log0
 ```
 ## Variable Scope 변수 범위
 
----
 
 ### Function Scope variable
 
@@ -128,7 +124,6 @@ console.log(y); // ReferenceError: y is not defined
 ```
 ## Hoisting 호이스팅
 
----
 
 ### Variable Hoisting 변수 호이스팅
 
@@ -177,7 +172,6 @@ var baz = function() {
 ```
 ## Data structure and Types
 
----
 
 ### Primitive data type (7개)
 
@@ -241,7 +235,6 @@ parseInt("101",2) //5
 ```
 ## Literals
 
----
 
 ### Array Literals
 ```javascript
